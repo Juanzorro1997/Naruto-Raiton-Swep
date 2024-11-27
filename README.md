@@ -1,4 +1,4 @@
 # Naruto-Raiton-Swep
 
 
-Raito swep
+Raiton swep, xtract the folder Raiton and put in addons
